@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "899f69ce4f95730e1af8d5871838db61",
+    "revision": "46c0d3098709f88839e5b4dce5eccdc3",
     "url": "/Techdegree-ReactGalleryApp/index.html"
   },
   {
-    "revision": "f8968f80764c40873088",
+    "revision": "1a9e0dfb88f8e975d16f",
     "url": "/Techdegree-ReactGalleryApp/static/css/main.28430a44.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Techdegree-ReactGalleryApp/static/js/2.c9df2d90.chunk.js.LICENSE"
   },
   {
-    "revision": "f8968f80764c40873088",
-    "url": "/Techdegree-ReactGalleryApp/static/js/main.2d56763b.chunk.js"
+    "revision": "1a9e0dfb88f8e975d16f",
+    "url": "/Techdegree-ReactGalleryApp/static/js/main.b60f7c41.chunk.js"
   },
   {
     "revision": "4a814d65e0826ce23158",

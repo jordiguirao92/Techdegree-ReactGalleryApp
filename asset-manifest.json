@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Techdegree-ReactGalleryApp/static/css/main.28430a44.chunk.css",
-    "main.js": "/Techdegree-ReactGalleryApp/static/js/main.2d56763b.chunk.js",
-    "main.js.map": "/Techdegree-ReactGalleryApp/static/js/main.2d56763b.chunk.js.map",
+    "main.js": "/Techdegree-ReactGalleryApp/static/js/main.b60f7c41.chunk.js",
+    "main.js.map": "/Techdegree-ReactGalleryApp/static/js/main.b60f7c41.chunk.js.map",
     "runtime-main.js": "/Techdegree-ReactGalleryApp/static/js/runtime-main.e6df7071.js",
     "runtime-main.js.map": "/Techdegree-ReactGalleryApp/static/js/runtime-main.e6df7071.js.map",
     "static/js/2.c9df2d90.chunk.js": "/Techdegree-ReactGalleryApp/static/js/2.c9df2d90.chunk.js",
     "static/js/2.c9df2d90.chunk.js.map": "/Techdegree-ReactGalleryApp/static/js/2.c9df2d90.chunk.js.map",
     "index.html": "/Techdegree-ReactGalleryApp/index.html",
-    "precache-manifest.c251809e492d1b0afd5362724406ee63.js": "/Techdegree-ReactGalleryApp/precache-manifest.c251809e492d1b0afd5362724406ee63.js",
+    "precache-manifest.0e6678d3d19efdeef3725ec049922760.js": "/Techdegree-ReactGalleryApp/precache-manifest.0e6678d3d19efdeef3725ec049922760.js",
     "service-worker.js": "/Techdegree-ReactGalleryApp/service-worker.js",
     "static/css/main.28430a44.chunk.css.map": "/Techdegree-ReactGalleryApp/static/css/main.28430a44.chunk.css.map",
     "static/js/2.c9df2d90.chunk.js.LICENSE": "/Techdegree-ReactGalleryApp/static/js/2.c9df2d90.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e6df7071.js",
     "static/js/2.c9df2d90.chunk.js",
     "static/css/main.28430a44.chunk.css",
-    "static/js/main.2d56763b.chunk.js"
+    "static/js/main.b60f7c41.chunk.js"
   ]
 }
